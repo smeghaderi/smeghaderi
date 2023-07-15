@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smeghaderi
 - 👀 I’m interested in Java 
-- 🌱 I’m currently learning Java EE,Oracle DB
+- 🌱 I’m currently learning Java EE, Oracle DB
 - 💞️ I’m looking to collaborate on web base application 
 - 📫 How to reach me @ my email=s.m.e.ghaderi@gmail.com
 <!---
